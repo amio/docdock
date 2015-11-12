@@ -1,0 +1,28 @@
+{
+  "name": "docdock",
+  "version": "1.0.0",
+  "description": "App launcher for devdocs.io.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amio/docdock.git"
+  },
+  "keywords": [
+    "devdocs",
+    "chrome",
+    "chromeapp"
+  ],
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amio/docdock/issues"
+  },
+  "homepage": "https://github.com/amio/docdock#readme",
+  "dependencies": {
+    "eslint": "^1.9.0"
+  }
+}

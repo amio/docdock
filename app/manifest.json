@@ -1,0 +1,21 @@
+{
+  "name": "DocDock",
+  "short_name": "docdock",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "DD, right?",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": [
+    "webview",
+    "storage",
+    "notifications"
+  ],
+  "icons": {
+    "16": "images/icon-256.png",
+    "128": "images/icon-256.png"
+  }
+}
