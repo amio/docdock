@@ -22,7 +22,7 @@
     "url": "https://github.com/amio/docdock/issues"
   },
   "homepage": "https://github.com/amio/docdock#readme",
-  "dependencies": {
+  "devDependencies": {
     "eslint": "^1.9.0"
   }
 }
