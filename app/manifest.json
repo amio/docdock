@@ -1,9 +1,9 @@
 {
   "name": "DocDock",
   "short_name": "docdock",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "manifest_version": 2,
-  "description": "DD, right?",
+  "description": "App launcher for devdocs.io.",
   "app": {
     "background": {
       "scripts": ["background.js"]
@@ -15,7 +15,9 @@
     "notifications"
   ],
   "icons": {
-    "16": "images/icon-256.png",
-    "128": "images/icon-256.png"
+    "16": "images/icon-128.png",
+    "128": "images/icon-128.png",
+    "256": "images/icon-256.png",
+    "512": "images/icon-512.png"
   }
 }
