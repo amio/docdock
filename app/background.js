@@ -5,5 +5,10 @@ chrome.app.runtime.onLaunched.addListener(function () {
       'width': 1024,
       'height': 640
     }
+  }, function (appWindow) {
+    appWindow.contentWindow.addEventListener('focus', function () {
+      var webview = this.document.getElementsByTagName('webview')[0]
+      webview.focus()
+    })
   })
 })
