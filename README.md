@@ -1,5 +1,7 @@
 # docdock
 
+**DEPRICATED:** [Chrome will remove support for Chrome apps](http://blog.chromium.org/2016/08/from-chrome-apps-to-web.html).
+
 > App launcher for [devdocs.io](http://devdocs.io). Read docs like a hero!
 
 Install from Chrome WebStore: [docdock](https://chrome.google.com/webstore/detail/docdock/kcagdcfbfbjkhmkneamnghdbgfbgdhcf)
